@@ -1,0 +1,24 @@
+.cell {
+  background-color: white;
+  height: 40px;
+  width: 40px;
+  border: 1px black solid;
+}
+table {
+  border-collapse: collapse;
+  margin: 10px;
+}
+
+button {
+  margin: 10px;
+  height: 30px;
+  width: 60px;
+  background-color: white;
+  border: 1px grey solid;
+  border-radius: 2px;
+}
+
+button:hover {
+  background-color: #f2f2f2;
+  color: grey;
+}
